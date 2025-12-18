@@ -47,4 +47,32 @@ You can view the dashboard <a href ="https://github.com/Empress36/Call-Center-Da
 This dashboard provides a comprehensive overview of call center performance. It displays key metrics like the total number of calls, average call duration, Above SLA Calls, Within SLA Calls and Below SLA Calls. The dashboard breaks down call volume by channel and response time, offering insights into how customers are contacting the center and how quickly their needs are being addressed.
 Additionally, it visualizes Customer Satisfaction (CSAT) scores based on sentiment, it’s allow to understand the emotional impact on customer experiences. The dashboard also highlights the top 5 states by call volume, which can inform resource allocation and regional strategies. Overall, the dashboard is designed to monitor performance, identify areas for improvement, and make data-driven decisions to enhance customer service efficiency and satisfaction.
 
+## Insights
+*  The call distribution by channel allows you to see which channels (e.g. call center, chatbot) are most used by customers. This helps in    understanding customer preferences.
+*  Based on the chart, it shows how quickly agents are responding to customer inquiries, which you can see that Above SLA is 63%, Within      SLA is 25% and below SLA is 13%.
+*  This analyze the breakdown of calls by state offers a geographical perspective on call center operations, which can be useful for           identifying regional trends or issues.
+*  This identifies the most common reasons for calls and their duration, where Billing Question has the highest percentage.
+*  The analysis helps in understanding customer satisfactions, how they feel about their interactions and identifying areas for customer      service improvement.
+*  This allows the monitoring trends and identifying any seasonal patterns or performance changes over time.
+
+## Recommendations
+*  Based on the insights I would suggest to evaluate the performance of each channel (call  center, chatbot, email and web)and identify       which channels have the highest call volumes and customers satisfaction scores. This will help in optimizing resource allocation and       improving customer experience.
+*  From the insights gotten from the chart, I would recommend Implementing strategies to reduce wait times and ensure agents and ensure       agents are readily available to assist customers.
+*  Monitor the level performance of each state and tailor support strategies based on the states with the highest call volumes. This might    involve offering specialized support or adjusting staffing levels
+*  Based on the insight, focus on resolving the issues that are causing the longest call durations most especially the Billing question       reason. You can tackle this issue by providing better agent training or streamlining processes.
+*  Monitor the sentiment analysis to identify and address issues causing negative customer experience. Investigate the reasons behind         negative feedback and implement corrective actions, such as improving agent training or resolving common customer issues.
+*  I would recommend to regularly monitor the trends in call volume and duration. This will help in identifying seasonal patterns             measuring the impact of implemented.
+ 
+   
+
+   
+
+
+
+   
+
+   
+
+   
+
 
