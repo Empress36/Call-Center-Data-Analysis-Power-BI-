@@ -13,12 +13,23 @@
 *   **Enhance Operational Efficiency:** Identify opportunities to reduce call duration, improve first-call resolution, and streamline processes.
 *   **Track Performance Over Time:** Monitor trends over time to assess the impact of changes and identify areas for continuous improvement.
 *   **Provide Actionable Insights:** Generate insights that can be used to inform decisions, such as agent training, process improvements, and technology investments.
+  
 ## Dataset Used 
 You can access the dataset and resources <a href = "https://github.com/Empress36/Call-Center-Data-Analysis-Power-BI-/blob/main/Call%20Center%20Report%20Analysis.pbix">here<a/>
+
 ## Tools Used
 The dashboard was built using the following tools and technologies:
-
 *  Power BI - Main data visualization platform used for report creation 
 *  SQL - For data cleaning and preprocessing 
 *  DAX (Data Analysis Expressions) - For calculated measures, dynamic visuals and conditional logic
 *  Data Modelling - For creating relationship among tables
+  
+## Question (KPIs)
+Primary KPI's:- Total Calls, Average Calls Duration and SLA Calls (Above,Within and Below)
+Secondary KPI's:
+*  Total Calls by Channel
+*  Total Calls by Response Time
+*  Top 5 State by Total Calls
+*  Call Duration by Reason
+*  Csat (customer satisfaction) by Sentiment
+*  Monthly trend by Sum of Call Duration and Total Call by Month
