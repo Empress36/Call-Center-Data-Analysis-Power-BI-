@@ -1,2 +1,6 @@
-# Call-Center-Data-Analysis-Power-BI-
-An interactive dashboard project that analyzes call center performance to uncover factors related to SLA, Customer Satisfaction, Call volume by Channel and Response time. Built with Power BI, this project showcases data modeling, DAX and storytelling with data.
+# Call-Center-Data-Analysis (Using Power-BI)
+## Project Aims and Objectives 
+## Aims:
+*   To provide a centralized, real-time view of key call center performance indicators.
+*   To enable data-driven decision-making for optimizing call center operations.
+*   To improve customer service quality and efficiency.
