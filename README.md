@@ -25,8 +25,9 @@ The dashboard was built using the following tools and technologies:
 *  Data Modelling - For creating relationship among tables
   
 ## Question (KPIs)
-Primary KPI's:- Total Calls, Average Calls Duration and SLA Calls (Above,Within and Below)
-Secondary KPI's:
+**Primary KPI's:-** Total Calls, Average Calls Duration and SLA Calls (Above,Within and Below)
+
+**Secondary KPI's:**
 *  Total Calls by Channel
 *  Total Calls by Response Time
 *  Top 5 State by Total Calls
