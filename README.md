@@ -34,3 +34,5 @@ The dashboard was built using the following tools and technologies:
 *  Call Duration by Reason
 *  Csat (customer satisfaction) by Sentiment
 *  Monthly trend by Sum of Call Duration and Total Call by Month
+## Dashboard view
+You can view the dashboard <a href ="https://github.com/Empress36/Call-Center-Data-Analysis-Power-BI-/blob/main/Screenshot%20of%20Dashboard.jpeg">here<a/>
