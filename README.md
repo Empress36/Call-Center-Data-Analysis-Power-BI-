@@ -5,8 +5,8 @@
 *   To enable data-driven decision-making for optimizing call center operations.
 *   To improve customer service quality and efficiency.
 ## Objectives:
-*   Monitor Key Performance Indicators (KPIs): Track metrics such as total calls, average call duration, calls within SLA, CSAT scores, and channel performance.
-*   Identify Trends and Patterns: Analyze data visualizations to identify trends in call volume, call duration, customer satisfaction, and channel usage.
+*  ** Monitor Key Performance Indicators (KPIs):** Track metrics such as total calls, average call duration, calls within SLA, CSAT scores, and channel performance.
+*   **Identify Trends and Patterns:** Analyze data visualizations to identify trends in call volume, call duration, customer satisfaction, and channel usage.
 *   Analyze Root Causes: Investigate the reasons behind long call duration's, low CSAT scores, and SLA breaches.
 *   Optimize Resource Allocation: Identify peak call times, popular channels, and areas needing improvement to optimize staffing and resource allocation.
 *   Improve Customer Satisfaction: Monitor CSAT scores and identify areas for improvement in customer service.
