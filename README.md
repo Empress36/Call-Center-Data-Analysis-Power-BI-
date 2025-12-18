@@ -42,3 +42,9 @@ The dashboard was built using the following tools and technologies:
 *  Monthly trend by Sum of Call Duration and Total Call by Month
 ## Dashboard view
 You can view the dashboard <a href ="https://github.com/Empress36/Call-Center-Data-Analysis-Power-BI-/blob/main/Screenshot%20of%20Dashboard.jpeg">here<a/>
+
+## Summary
+This dashboard provides a comprehensive overview of call center performance. It displays key metrics like the total number of calls, average call duration, Above SLA Calls, Within SLA Calls and Below SLA Calls. The dashboard breaks down call volume by channel and response time, offering insights into how customers are contacting the center and how quickly their needs are being addressed.
+Additionally, it visualizes Customer Satisfaction (CSAT) scores based on sentiment, it’s allow to understand the emotional impact on customer experiences. The dashboard also highlights the top 5 states by call volume, which can inform resource allocation and regional strategies. Overall, the dashboard is designed to monitor performance, identify areas for improvement, and make data-driven decisions to enhance customer service efficiency and satisfaction.
+
+
