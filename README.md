@@ -15,10 +15,8 @@
 *   **Provide Actionable Insights:** Generate insights that can be used to inform decisions, such as agent training, process improvements, and technology investments.
 ## Tools Used
 The dashboard was built using the following tools and technologies:
- Power BI - Main data visualization platform used for report creation 
 
- SQL - For data cleaning and preprocessing 
-
- DAX (Data Analysis Expressions) - For calculated measures, dynamic visuals and conditional logic
-
- Data Modelling - For creating relationship among tables
+*  Power BI - Main data visualization platform used for report creation 
+*  SQL - For data cleaning and preprocessing 
+*  DAX (Data Analysis Expressions) - For calculated measures, dynamic visuals and conditional logic
+*  Data Modelling - For creating relationship among tables
